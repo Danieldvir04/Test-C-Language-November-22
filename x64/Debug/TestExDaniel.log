@@ -1,0 +1,6 @@
+﻿  testEx3.c
+C:\Users\User\source\repos\playground090922\TestExDaniel\testEx3.c(18,45): warning C4047: ':': 'void *' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\playground090922\TestExDaniel\testEx3.c(23,13): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  testEx4.c
+  Generating Code...
+  TestExDaniel.vcxproj -> C:\Users\User\source\repos\playground090922\TestExDaniel\x64\Debug\TestExDaniel.exe
